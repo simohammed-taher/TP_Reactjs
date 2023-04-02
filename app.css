@@ -1,0 +1,18 @@
+.app {
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: #333;
+  color: white;
+}
+
+select {
+  margin-top: 1rem;
+}
